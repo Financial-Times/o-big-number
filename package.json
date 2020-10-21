@@ -1,6 +1,6 @@
 {
     "main": "main.js",
-    "name": "o-big-number",
+    "name": "@financial-times/o-big-number",
     "devDependencies": {
         "eslint": "^7.9.0",
         "eslint-config-origami-component": "^2.1.0",
