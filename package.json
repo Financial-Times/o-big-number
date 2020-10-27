@@ -1,6 +1,8 @@
 {
-    "browser": "main.js",
     "name": "@financial-times/o-big-number",
+    "version": "100.0.0-7",
+    "description": "Typographical styles to highlight a big number.",
+    "browser": "main.js",
     "devDependencies": {
         "eslint": "^7.9.0",
         "eslint-config-origami-component": "^2.1.0",
@@ -12,9 +14,7 @@
         "@financial-times/o-spacing": "^100.0.0-7",
         "@financial-times/o-typography": "^100.0.0-7"
     },
-    "description": "Typographical styles to highlight a big number.",
     "publishConfig": {
         "registry": "http://localhost:4873"
-    },
-    "version": "100.0.0-7"
+    }
 }
