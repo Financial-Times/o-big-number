@@ -1,5 +1,11 @@
 # o-big-number [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](#licence)
 
+***
+
+**This component has moved to the [Origami Component System](https://github.com/Financial-Times/origami).**
+
+***
+
 Typographical styles to highlight and describe a big number. Positioning of the big number, for example to the left in a style of a pull-quote, is left to the user. This is so o-big-number may be used in different contexts without writing extra CSS to remove existing positioning.
 
 ----
